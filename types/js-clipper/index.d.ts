@@ -300,3 +300,8 @@ declare namespace ClipperLib {
 
 }
 
+
+declare ClipperLib = ClipperLib.Clipper;
+
+export = ClipperLib;
+
